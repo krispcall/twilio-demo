@@ -1,4 +1,4 @@
-##### Working of KrispCall
+# Working of KrispCall
 
 KrispCall is a communication application that offers reliable and high-quality communication
 services by utilizing Twilio's API and SDK. Twilio's Voice API is used for making and 
