@@ -1,5 +1,9 @@
+import os
 from twilio.rest import Client
-client = Client('ACe77bd388a1877d74f43befd79a854a12', 'b6a00b9a51cd6b60861a73d5c9a0df37')
+account_sid = os.environ['TWILIO_ACCOUNT_SID']
+auth_token = os.environ['TWILIO_AUTH_TOKEN']
+
+client = Client(account_sid, auth_token)
 call = client.calls.create(
     twiml = '<Response><Say>Testing Testing</Say></Response>',
     to = '+9779860983610',
