@@ -13,6 +13,7 @@ its subscription billing, invoicing, and payments while providing a seamless use
 These features combined allow KrispCall to provide a comprehensive and customizable 
 communication solution to its users.
 
-<img src = "https://files.slack.com/files-pri/T0121FJAHDG-F04STDZ9VS9/krsipcall_overview.png" style="display{inline-block}"| width=200>
+![image](https://user-images.githubusercontent.com/24490674/224884765-3f1cd7cf-234d-4656-afda-148f8f0eaa47.png)
 
-<img src = "https://files.slack.com/files-pri/T0121FJAHDG-F04SPPMMX7Y/communication_flowchart.png" style="display{inline-block}"| width=200>
+
+![image](https://user-images.githubusercontent.com/24490674/224884783-cbbb9f33-b22e-413f-aaa5-2dbdd12dae8d.png)
